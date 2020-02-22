@@ -3,10 +3,12 @@ https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/tars/aShT
 https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/tars/aShTAdhyAyI-english__2019-01-12_06-01-32Z__0MB.tar.gz
 https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/tars/abhyankara-grammar__2019-01-12_06-01-32Z__0MB.tar.gz
 https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/tars/balamanorama__2019-01-12_06-01-32Z__1MB.tar.gz
+https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/tars/declension-inria__2020-02-22_07-23-34Z__44MB.tar.gz
 https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/tars/dhAtu-pATha-kRShNAchArya__2019-01-12_06-01-32Z__0MB.tar.gz
 https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/tars/dhAtupATha-sa__2019-01-12_06-01-32Z__0MB.tar.gz
 https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/tars/dhAtupradIpa__2019-01-12_06-01-32Z__0MB.tar.gz
 https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/tars/dhaval-tiNanta__2019-01-12_06-01-32Z__2MB.tar.gz
+https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/tars/grammar-heritage_du_sanskrit_san-san__2020-02-22_07-23-34Z__3MB.tar.gz
 https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/tars/huetKrdanta__2019-01-12_06-01-32Z__3MB.tar.gz
 https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/tars/jnu-tiNanta__2019-01-12_06-01-32Z__0MB.tar.gz
 https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/tars/kRdanta-rUpa-mAlA__2019-01-12_06-01-32Z__1MB.tar.gz
