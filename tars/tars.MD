@@ -7,6 +7,7 @@ https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/tars/decl
 https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/tars/dhAtu-pATha-kRShNAchArya__2019-01-12_06-01-32Z__0MB.tar.gz
 https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/tars/dhAtupATha-sa__2019-01-12_06-01-32Z__0MB.tar.gz
 https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/tars/dhAtupradIpa__2019-01-12_06-01-32Z__0MB.tar.gz
+https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/tars/dhaval-prakriya__2020-04-01_10-19-09Z__74MB.tar.gz
 https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/tars/dhaval-tiNanta__2019-01-12_06-01-32Z__2MB.tar.gz
 https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/tars/grammar-heritage_du_sanskrit_san-san__2020-02-22_07-23-34Z__3MB.tar.gz
 https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/tars/huetKrdanta__2020-02-22_09-11-40Z__3MB.tar.gz
