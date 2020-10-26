@@ -16,7 +16,7 @@ https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/tars/jnu-
 https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/tars/kRdanta-rUpa-mAlA__2019-01-12_06-01-32Z__1MB.tar.gz
 https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/tars/kRdanta-sa__2020-04-10_07-26-29Z__0MB.tar.gz
 https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/tars/kShIratarangiNI__2019-01-12_06-01-32Z__0MB.tar.gz
-https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/tars/kashika__2019-01-12_06-01-32Z__1MB.tar.gz
+https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/tars/kashika__2020-10-26_11-02-47Z__1MB.tar.gz
 https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/tars/laghu-kaumudi__2019-01-12_06-01-32Z__0MB.tar.gz
 https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/tars/mAdhavIya-dhAtu-vRtti__2019-01-12_06-01-32Z__0MB.tar.gz
 https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/tars/nyasa__2019-01-12_06-01-32Z__2MB.tar.gz
