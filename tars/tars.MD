@@ -2,7 +2,6 @@ https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/tars/Akhy
 https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/tars/aShTAdhyAyI-anuvRtti__2019-01-12_06-01-32Z__0MB.tar.gz
 https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/tars/aShTAdhyAyI-english__2019-01-12_06-01-32Z__0MB.tar.gz
 https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/tars/abhyankara-grammar__2019-01-12_06-01-32Z__0MB.tar.gz
-https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/tars/balamanorama__2019-01-12_06-01-32Z__1MB.tar.gz
 https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/tars/declension-inria__2020-02-22_07-23-34Z__44MB.tar.gz
 https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/tars/dhAtu-pATha-kRShNAchArya__2019-01-12_06-01-32Z__0MB.tar.gz
 https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/tars/dhAtupATha-sa__2019-01-12_06-01-32Z__0MB.tar.gz
@@ -17,10 +16,5 @@ https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/tars/kRda
 https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/tars/kRdanta-sa__2020-04-10_07-26-29Z__0MB.tar.gz
 https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/tars/kShIratarangiNI__2019-01-12_06-01-32Z__0MB.tar.gz
 https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/tars/kashika__2020-10-26_11-02-47Z__1MB.tar.gz
-https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/tars/laghu-kaumudi__2019-01-12_06-01-32Z__0MB.tar.gz
 https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/tars/mAdhavIya-dhAtu-vRtti__2019-01-12_06-01-32Z__0MB.tar.gz
-https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/tars/nyasa__2019-01-12_06-01-32Z__2MB.tar.gz
-https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/tars/padamanjarI__2019-01-12_06-01-32Z__1MB.tar.gz
 https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/tars/puShpA-ArdhadhAtuka__2019-01-12_06-01-32Z__0MB.tar.gz
-https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/tars/siddhAnta-kaumudI__2019-01-12_06-01-32Z__0MB.tar.gz
-https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/tars/tattvabodhini__2019-01-12_06-01-32Z__1MB.tar.gz
