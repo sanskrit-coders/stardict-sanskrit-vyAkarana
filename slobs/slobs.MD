@@ -2,14 +2,14 @@ https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/slobs/Akh
 https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/slobs/aShTAdhyAyI-anuvRtti__2019-01-12_06-01-32Z__2MB.slob  
 https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/slobs/aShTAdhyAyI-english__2019-01-12_06-01-32Z__2MB.slob  
 https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/slobs/abhyankara-grammar__2019-01-12_06-01-32Z__0MB.slob  
-https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/slobs/declension-inria__2021-04-04_12-57-25__61MB.slob  
+https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/slobs/declension-inria__2021-04-25_01-32-34__61MB.slob  
 https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/slobs/dhAtu-pATha-kRShNAchArya__2021-02-13_16-04-25Z__0MB.slob  
 https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/slobs/dhAtupATha-sa__2019-01-12_06-01-32Z__0MB.slob  
 https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/slobs/dhAtupAThaH_sasvaraH__2020-08-05_10-57-33Z__0MB.slob  
 https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/slobs/dhAtupradIpa__2019-01-12_06-01-32Z__0MB.slob  
-https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/slobs/dhaval-prakriya__2021-04-04_12-57-27__54MB.slob  
+https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/slobs/dhaval-prakriya__2021-04-25_01-32-36__54MB.slob  
 https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/slobs/dhaval-tiNanta__2019-01-12_06-01-32Z__19MB.slob  
-https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/slobs/grammar-heritage_du_sanskrit_san-san__2021-04-04_12-57-27__2MB.slob  
+https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/slobs/grammar-heritage_du_sanskrit_san-san__2021-04-25_01-32-36__2MB.slob  
 https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/slobs/huetKrdanta__2020-02-22_09-11-40Z__2MB.slob  
 https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/slobs/jnu-tiNanta__2019-01-12_06-01-32Z__3MB.slob  
 https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/slobs/kRdanta-rUpa-mAlA__2021-02-13_15-13-15Z__5MB.slob  
