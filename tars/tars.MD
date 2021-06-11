@@ -2,7 +2,7 @@ https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/tars/Akhy
 https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/tars/aShTAdhyAyI-anuvRtti__2019-01-12_06-01-32Z__0MB.tar.gz  
 https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/tars/aShTAdhyAyI-english__2019-01-12_06-01-32Z__0MB.tar.gz  
 https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/tars/abhyankara-grammar__2019-01-12_06-01-32Z__0MB.tar.gz  
-https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/tars/ashtadhyayi_com_dhaatu__2021-06-11_00-54-15Z__0MB.tar.gz  
+https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/tars/ashtadhyayi_com_dhaatu__2021-06-11_05-24-05Z__0MB.tar.gz  
 https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/tars/ashtadhyayi_com_nich__2021-06-10_17-50-55Z__4MB.tar.gz  
 https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/tars/ashtadhyayi_com_san__2021-06-10_17-50-55Z__2MB.tar.gz  
 https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/tars/ashtadhyayi_com_yang__2021-06-10_17-50-55Z__1MB.tar.gz  
